@@ -1,0 +1,15 @@
+nx_tcpserver.c:87:13:_nx_tcpserver_session_allocate	24	static
+nx_tcpserver.c:172:13:_nx_tcpserver_relisten	24	static
+nx_tcpserver.c:290:6:_nx_tcpserver_create	64	static
+nx_tcpserver.c:600:6:_nx_tcpserver_start	40	static
+nx_tcpserver.c:674:13:_nx_tcpserver_connect_present	24	static
+nx_tcpserver.c:726:13:_nx_tcpserver_data_present	24	static
+nx_tcpserver.c:775:13:_nx_tcpserver_disconnect_present	24	static
+nx_tcpserver.c:823:13:_nx_tcpserver_timeout	24	static
+nx_tcpserver.c:882:13:_nx_tcpserver_connect_process	24	static
+nx_tcpserver.c:1025:13:_nx_tcpserver_data_process	24	static
+nx_tcpserver.c:1099:13:_nx_tcpserver_disconnect_process	24	static
+nx_tcpserver.c:1179:13:_nx_tcpserver_timeout_process	24	static
+nx_tcpserver.c:1271:13:_nx_tcpserver_thread_entry	40	static
+nx_tcpserver.c:1375:6:_nx_tcpserver_stop	24	static
+nx_tcpserver.c:1451:6:_nx_tcpserver_delete	24	static

@@ -1,0 +1,6 @@
+networking.c:37:13:print_address	24	static
+networking.c:47:13:print_mac	40	static
+networking.c:61:13:dhcp_connect	32	static
+networking.c:100:13:dns_connect	40	static
+networking.c:138:6:network_init	48	static
+networking.c:252:6:network_connect	16	static

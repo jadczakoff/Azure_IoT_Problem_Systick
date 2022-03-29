@@ -1,0 +1,4 @@
+console.c:8:5:__io_putchar	16	static
+console.c:14:5:__io_getchar	16	static
+console.c:34:5:_read	32	static
+console.c:52:5:_write	32	static

@@ -1,0 +1,3 @@
+app_threadx.c:69:6:App_ThreadX_Init	24	static
+app_threadx.c:86:6:MX_ThreadX_Init	8	static
+app_threadx.c:104:6:azure_thread_entry	24	static

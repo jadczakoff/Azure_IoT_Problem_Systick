@@ -1,0 +1,9 @@
+az_http_response.c:18:26:_az_is_http_whitespace	16	static
+az_http_response.c:32:31:_az_get_digit	56	static
+az_http_response.c:59:1:_az_get_http_status_line	176	static
+az_http_response.c:119:24:az_http_response_get_status_line	24	static
+az_http_response.c:139:24:az_http_response_get_next_header	184	static
+az_http_response.c:282:24:az_http_response_get_body	80	static
+az_http_response.c:320:6:_az_http_response_reset	64	static
+az_http_response.c:330:16:_az_http_response_get_remaining	16	static
+az_http_response.c:335:24:az_http_response_append	72	static

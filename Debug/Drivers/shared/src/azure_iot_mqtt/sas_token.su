@@ -1,0 +1,6 @@
+sas_token.c:17:13:base64_encode	40	static
+sas_token.c:56:15:base64_decode	288	static
+sas_token.c:105:15:base64_decode_length	24	static
+sas_token.c:117:12:url_encode	24	static
+sas_token.c:140:6:create_sas_token	352	static
+sas_token.c:181:6:create_dps_sas_token	352	static

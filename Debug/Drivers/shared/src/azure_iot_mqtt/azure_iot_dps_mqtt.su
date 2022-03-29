@@ -1,0 +1,6 @@
+azure_iot_dps_mqtt.c:31:13:process_retry	520	static
+azure_iot_dps_mqtt.c:79:13:process_success	1080	static
+azure_iot_dps_mqtt.c:112:13:mqtt_notify_cb	64	static
+azure_iot_dps_mqtt.c:174:6:azure_iot_dps_create	72	static
+azure_iot_dps_mqtt.c:218:6:azure_iot_dps_delete	16	static
+azure_iot_dps_mqtt.c:233:6:azure_iot_dps_register	168	static

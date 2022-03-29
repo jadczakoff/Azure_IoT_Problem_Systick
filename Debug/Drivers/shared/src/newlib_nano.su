@@ -1,0 +1,8 @@
+newlib_nano.c:16:7:_sbrk	24	static
+newlib_nano.c:32:5:_close	16	static
+newlib_nano.c:37:5:_fstat	16	static
+newlib_nano.c:43:5:_isatty	16	static
+newlib_nano.c:48:5:_lseek	24	static
+newlib_nano.c:53:6:_exit	16	static
+newlib_nano.c:60:6:_kill	16	static
+newlib_nano.c:65:5:_getpid	4	static

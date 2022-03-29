@@ -1,0 +1,7 @@
+stm_networking.c:37:13:print_address	24	static
+stm_networking.c:42:13:check_firmware_version	48	static
+stm_networking.c:69:13:wifi_init	72	static
+stm_networking.c:104:13:dhcp_connect	24	static
+stm_networking.c:145:13:dns_connect	24	static
+stm_networking.c:182:6:stm_network_init	56	static
+stm_networking.c:287:6:stm_network_connect	24	static

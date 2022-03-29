@@ -1,0 +1,5 @@
+azure_iot_connect.c:16:13:exponential_backoff_reset	4	static
+azure_iot_connect.c:21:13:exponential_backoff_with_jitter	48	static
+azure_iot_connect.c:58:13:iothub_connect	24	static
+azure_iot_connect.c:77:6:connection_status_set	16	static
+azure_iot_connect.c:99:6:connection_monitor	24	static

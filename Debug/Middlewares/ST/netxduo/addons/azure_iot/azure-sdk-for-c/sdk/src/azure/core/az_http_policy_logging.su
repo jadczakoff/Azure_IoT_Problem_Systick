@@ -1,0 +1,6 @@
+az_http_policy_logging.c:24:16:_az_http_policy_logging_copy_lengthy_value	112	static
+az_http_policy_logging.c:57:18:_az_http_policy_logging_append_http_request_msg	408	static
+az_http_policy_logging.c:124:18:_az_http_policy_logging_append_http_response_msg	560	static
+az_http_policy_logging.c:210:6:_az_http_policy_logging_log_http_request	1048	static
+az_http_policy_logging.c:220:6:_az_http_policy_logging_log_http_response	1096	static
+az_http_policy_logging.c:237:24:az_http_pipeline_policy_logging	112	static

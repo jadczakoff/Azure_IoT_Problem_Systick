@@ -1,0 +1,7 @@
+board_init.c:30:13:UART_Console_Init	8	static
+board_init.c:43:13:Init_MEM1_Sensors	8	static
+board_init.c:76:6:board_init	8	static
+board_init.c:99:5:hardware_rand	16	static
+board_init.c:106:10:HAL_GetTick	8	static
+board_init.c:112:6:HAL_GPIO_EXTI_Callback	16	static
+board_init.c:123:6:SPI3_IRQHandler	8	static

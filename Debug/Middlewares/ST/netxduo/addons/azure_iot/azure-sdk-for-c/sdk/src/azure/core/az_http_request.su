@@ -1,0 +1,8 @@
+az_http_request.c:20:24:az_http_request_init	320	static
+az_http_request.c:66:24:az_http_request_set_query_parameter	264	static
+az_http_request.c:122:1:az_http_request_append_header	200	static
+az_http_request.c:151:24:az_http_request_get_header	40	static
+az_http_request.c:176:1:az_http_request_get_method	16	static
+az_http_request.c:186:24:az_http_request_get_url	40	static
+az_http_request.c:196:24:az_http_request_get_body	16	static
+az_http_request.c:205:22:az_http_request_headers_count	16	static

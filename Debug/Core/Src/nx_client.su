@@ -1,0 +1,12 @@
+nx_client.c:59:13:append_device_info_properties	24	static
+nx_client.c:108:13:append_device_telemetry	16	static
+nx_client.c:125:13:append_device_telemetry_magnetometer	24	static
+nx_client.c:145:13:append_device_telemetry_accelerometer	24	static
+nx_client.c:165:13:append_device_telemetry_gyroscope	32	static
+nx_client.c:185:13:set_led_state	16	static
+nx_client.c:199:13:command_received_cb	48	static
+nx_client.c:238:13:writable_property_received_cb	40	static
+nx_client.c:264:13:property_received_cb	32	static
+nx_client.c:285:13:properties_complete_cb	16	static
+nx_client.c:296:13:telemetry_cb	16	static
+nx_client.c:325:6:azure_iot_nx_client_entry	48	static

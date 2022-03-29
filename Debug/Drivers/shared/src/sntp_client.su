@@ -1,0 +1,7 @@
+sntp_client.c:42:13:time_update_callback	16	static
+sntp_client.c:48:13:set_sntp_time	88	static
+sntp_client.c:72:13:sntp_client_run	32	static
+sntp_client.c:116:7:sntp_time_get	16	static
+sntp_client.c:127:6:sntp_time	16	static
+sntp_client.c:134:6:sntp_init	32	static
+sntp_client.c:165:6:sntp_sync	32	static
